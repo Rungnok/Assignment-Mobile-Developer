@@ -1,0 +1,9 @@
+{
+    "touch_id": "Touch ID",
+    "set_touch_id_detail": "Set up fingerprint login\nfor faster access",
+    "set_touch_id": "Set Fingerprint",
+    "skip": "Skip",
+    "touch_id_for_app": "Touch ID for\n“CGS Application”",
+    "use_touch_id_or_pin": "Use Touch ID or\ncancel to return to PIN",
+    "cancel": "Cancel"
+}

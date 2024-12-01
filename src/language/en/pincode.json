@@ -1,0 +1,7 @@
+{
+    "set_pin_code": "Set PIN Code",
+    "verify_pin_code": "Verify PIN Code",
+    "enter_pin_code": "Please Enter PIN Code",
+    "forgot_pin_code": "Forgot PIN Code?",
+    "incorrect_pin_code": "The entered PIN does not match. Please try again."
+}

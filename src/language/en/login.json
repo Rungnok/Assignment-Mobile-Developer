@@ -1,0 +1,9 @@
+{
+  "user_name": "Username",
+  "password": "Password",
+  "save_signin": "Save Sign-In",
+  "forgot_password": "Forgot Password?",
+  "signin": "Sign In",
+  "dont_have_user": "Don't have an account?",
+  "signup": "Open an account to register a user account."
+}

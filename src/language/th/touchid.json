@@ -1,0 +1,9 @@
+{
+    "touch_id": "Touch ID",
+    "set_touch_id_detail": "ตั้งค่าล็อคอินด้วยลายนิ้วมือ\nเพื่อการเข้าถึงที่รวดเร็วขึ้น",
+    "set_touch_id": "ตั้งค่าลายนิ้วมือ",
+    "skip": "ข้าม",
+    "touch_id_for_app":"Touch ID for\n“CGS Application”",
+    "use_touch_id_or_pin": "เข้่าใช้งานด้วย Touch ID หรือ\nยกเลิกเพื่อกลับไปใช้รหัส PIN",
+    "cancel": "ยกเลิก"
+}

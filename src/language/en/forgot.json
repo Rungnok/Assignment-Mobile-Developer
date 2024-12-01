@@ -1,0 +1,9 @@
+{
+  "forgot_password": "Forgot password?",
+  "please_input_email_tel": "Please enter the registered email or\nphone number",
+  "input_email_tel": "Email / Phone number",
+  "send": "Send",
+  "success": "Success",
+  "reset_password_success": "Your password has been successfully reset",
+  "submit": "OK"
+}

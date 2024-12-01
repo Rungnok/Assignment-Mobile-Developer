@@ -1,0 +1,9 @@
+{
+  "forgot_password": "ลืมรหัสผ่าน?",
+  "please_input_email_tel": "กรุณากรอกอีเมลหรือเบอร์โทรศัพท์ที่\nลงทะเบียน",
+  "input_email_tel": "อีเมล / เบอร์โทรศัพท์",
+  "send": "ส่ง",
+  "success": "สำเร็จ",
+  "reset_password_success": "รีเซ็ตรหัสผ่านของคุณสำเร็จแล้ว",
+  "submit": "ตกลง"
+}

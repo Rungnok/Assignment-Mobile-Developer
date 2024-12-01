@@ -1,0 +1,9 @@
+{
+  "otp_send": "OTP will be sent to your phone number",
+  "request_otp": "Request OTP",
+  "wrong_tel": "If the phone number is incorrect, please contact 02-XXX-XXXX",
+  "verify": "Verify Identity",
+  "input_otp": "Please enter the verification code we sent you",
+  "no_code": "Didn't receive the code?",
+  "send_again": "Resend Code"
+}

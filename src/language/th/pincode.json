@@ -1,0 +1,7 @@
+{
+    "set_pin_code": "ตั้งรหัส PIN CODE",
+    "verify_pin_code": "ยืนยันรหัส PIN CODE",
+    "enter_pin_code": "กรุณากรอกรหัส PIN",
+    "forgot_pin_code": "ลืมรหัส PIN ?",
+    "incorrect_pin_code": "รหัส PIN ที่กรอกไม่ตรงกัน กรุณากรอกใหม่อีกครั้ง"    
+}
